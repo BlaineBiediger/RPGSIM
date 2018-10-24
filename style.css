@@ -1,0 +1,11 @@
+p.Text {
+	color:White;
+	font-family: sans-serif;
+	font-size: 25px;
+	background-color: black;
+	border-style: double;
+	border-width: 5px;
+	border-color: grey;
+	border-radius: 5px;
+	padding: 15px
+}
